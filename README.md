@@ -12,6 +12,8 @@ Budget buddy aims on helping it's users save their money. Users can set monthly 
 -  Record expenses with details
 -  View categorized spending
 -  Basic budget tracking
+-  Tips page to assist users 
+-  History page to view past budgets and more
   
 --Database Schema--
  Tables
